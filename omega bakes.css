@@ -1,0 +1,12 @@
+#h2{
+    background:linear-gradient(90deg,rgb(221, 192, 129),rgb(230, 189, 196),rgb(240, 165, 165));
+}
+li{
+    font-weight:lighter;
+    color: antiquewhite,rgb(233, 222, 120,rgb(248, 193, 202));
+    font-style: italic;
+    text-decoration:none;
+}
+#topic1,#topic2,#topic3,#topic4{
+    font-weight:bolder
+}

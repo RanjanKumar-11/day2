@@ -1,0 +1,34 @@
+body{
+    background:color(srgb rgb(228, 174, 73) rgb(226, 235, 109) rgb(234, 236, 100))
+    background-repeat: no-repeat:fixed;
+    background-size: 100%;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(2, 5, 2);
+    font-size: 50px;
+}
+
+#topic{
+    color: black;
+    margin-left: 10%;
+    font-size: x-large;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+li{
+    color: rgb(3, 19, 3);
+    margin-left: 12%;
+}
+marquee{
+    width: 450px;
+    margin-left:375px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 10;
+    margin: 50px;
+    padding: 10px;
+}
